@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Zoo.AvaMVVM/.vs
+/Zoo.AvaMVVM/bin/Debug/net8.0
+/Zoo.AvaMVVM/obj
+/.vs
